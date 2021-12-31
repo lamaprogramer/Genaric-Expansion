@@ -83,3 +83,11 @@ ballance changes
 possible progression system
 
 implament any helpful community feedback
+
+# Changelog
+
+### v1.0
+release
+
+### v1.1
+coming soon
