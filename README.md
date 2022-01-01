@@ -90,4 +90,25 @@ implament any helpful community feedback
 release
 
 ### v1.1
-coming soon
+
+#### What's New?
+
+##### new mod: Genaric needs
+created by: Iamaprogramer(me)
+
+purpouse: introduces basic frame of a guide book as well as a new block and item for recipe balancing
+
+##### new mod: Mowzie's Mobs([curseforge](https://github.com/user/repo/blob/branch/other_file.md))
+created by: (Bob Mowzie, pau101 and iLexiconn)
+
+purpouse: adds more unique mobs to the pack
+
+#### Tweaks:
+tweaked cave generation
+
+tweaked tree leaf particles
+
+tweaked the Transmutation table(Project E) to be more for late-game
+
+#### Changes:
+completly changed the Abyss Portal Activator recipe to make it more for late-game
